@@ -43,6 +43,10 @@ cd AI-agent
 conda env create -n ai -f ai_environment.yml
 conda activate ai
 
-## Create and run ai agents
+---
+
+## Getting Started
+Create and run ai agents
+```bash
 adk create "my_agent"
 adk run "my_agent"
