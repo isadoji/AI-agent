@@ -34,13 +34,14 @@ The goal is to foster rapid prototyping of autonomous agents in research or expe
 ---
 
 ## Installation  
+**Clone this repository**
 
-# Clone this repository
 git clone https://github.com/isadoji/AI-agent.git 
 
 cd AI-agent
 
-# (Optional) Create and activate a virtual environment
+**Create and activate a virtual environment**
+
 conda env create -n ai -f ai_environment.yml
 
 conda activate ai
@@ -48,7 +49,8 @@ conda activate ai
 --- 
 
 ## Getting Started
-Create and run ai agents
+
+**Create and run ai agents**
 
 adk create "my_agent"
 
