@@ -41,4 +41,8 @@ cd AI-agent
 
 # (Optional) Create and activate a virtual environment
 conda env create -n ai -f ai_environment.yml
-cond activate ai
+conda activate ai
+
+## Create and run ai agents
+adk create "my_agent"
+adk run "my_agent"
