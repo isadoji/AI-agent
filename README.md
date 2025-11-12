@@ -8,11 +8,7 @@ A modular framework for building and experimenting with autonomous AI agents wri
 2. [Features](#features)  
 3. [Installation](#installation)  
 4. [Getting Started](#getting-started)  
-5. [Usage / Examples](#usage--examples)  
-6. [Architecture](#architecture)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Contact](#contact)  
+ 
 
 ---
 
