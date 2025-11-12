@@ -40,8 +40,5 @@ git clone https://github.com/isadoji/AI-agent.git
 cd AI-agent
 
 # (Optional) Create and activate a virtual environment
-python3 -m venv venv
-source venv/bin/activate
-
-# Install dependencies (if any listed in requirements.txt)
-pip install -r requirements.txt
+conda env create -n ai -f ai_environment.yml
+cond activate ai
