@@ -39,6 +39,7 @@ Create a concise summary as a bulleted list with 3-5 key points.""",
 )
 
 print("summarizer_agent created.")
+
 # Root Coordinator: Orchestrates the workflow by calling the sub-agents as tools.
 root_agent = Agent(
     name="ResearchCoordinator",
